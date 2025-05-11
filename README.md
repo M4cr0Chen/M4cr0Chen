@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **M4cr0Chen/M4cr0Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Zhenghong (Marco) Chen</h1>
-<h3 align="center">A second year CS student at the University of Waterloo. I'm passionate about distributed systems, compilers, machine learning, web development, game development, and so much more. I have experience in Web Development and Quality Assurance.</h3>
+## Hi 👋, I'm Zhenghong (Marco) Chen
+### A second year CS student at the University of Waterloo. I'm passionate about distributed systems, compilers, machine learning, web development, game development, and so much more. I have experience in Web Development and Quality Assurance.
 
 - 🌱 I’m currently learning **TensorFlow, OpenCv, PyTorch**
 - 📫 How to reach me: z253chen@uwaterloo.ca
