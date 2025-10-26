@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ## Hi 👋, I'm Zhenghong (Marco) Chen
-### A second year CS student at the University of Waterloo. I'm passionate about distributed systems, compilers, machine learning, web development, game development, and so much more. I have experience in Web Development and Quality Assurance.
+### A third year CS student at the University of Waterloo. I'm passionate about machine learning, software development, game development, and so much more. I have experience in Web Development and Quality Assurance.
 
 # 💫 About Me:
-🌱 I’m currently learning Machine Learning, including TensorFlow, OpenCv<br>📫 How to reach me: z253chen@uwaterloo.ca<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love playing First Person Shooters game and dream to build one myself!
+🌱 I’m currently exploring my career path, I'm interested in building AI systems that improve our society, and I've always been a big fan of [World Models](https://www.nvidia.com/en-us/glossary/world-models/). <br>📫 How to reach me: z253chen@uwaterloo.ca<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love playing First Person Shooters game and dream to build one myself!
 
 
 ## 🌐 Socials:
