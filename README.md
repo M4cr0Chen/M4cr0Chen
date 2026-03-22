@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ## Hi 👋, I'm Zhenghong (Marco) Chen
-### A third year CS student at the University of Waterloo. I'm passionate about machine learning, software development, game development, and so much more. I have experience in Web Development and Quality Assurance.
+### I am a third year Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). I'm passionate about machine learning, software development, game development, and so much more. 
+
+I've previously worked as 
+- Software Developer Intern at [Geotab](https://www.geotab.com/) [Incoming Summer 2026]
+- Software Developer Intern at [Geotab](https://www.geotab.com/) [Fall 2025]
+- Frontend Software Developer Intern at [Octopodi Technologies](https://www.octopodi.com/) [Winter 2025]
 
 # 💫 About Me:
-🌱 I’m currently exploring my career path, I'm interested in building AI systems that improve our society, and I've always been a big fan of [World Models](https://www.nvidia.com/en-us/glossary/world-models/). <br>📫 How to reach me: z253chen@uwaterloo.ca<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can recall the first 100 digits of π!
+🌱 I'm interested in building Agentic AI, LLM, and scalable distributed systems. <br>📫 How to reach me: z253chen@uwaterloo.ca<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can recall the first 100 digits of π!
 
 
 ## 🌐 Socials:
