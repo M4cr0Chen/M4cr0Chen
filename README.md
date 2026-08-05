@@ -13,19 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to my Github page
-### I am Zhenghong (Marco) Chen, a third year Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). 
+<h2 align="center">👋 Hi there! I'm Zhenghong (Marco) Chen</h2>
 
-I've previously worked as 
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/zh_mc050503-zh_mc050503?style=flat&logo=x&logoColor=white&color=black)](https://x.com/zh_mc050503)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/zhenghong-chen-974102245/)
+[![GitHub](https://img.shields.io/badge/website-1?style=flat&logo=vercel&logoColor=white&color=black)](https://www.marcochen.ca/)
+
+</div>
+
+I'm currently a third year Computer Science student at the [University of Waterloo](https://uwaterloo.ca/).
+
+My interests: ML Infra, World Model, LLM Inference, GPU Programming, Distributed System. 
+
+Some of my experiences:
+- Lead Machine Learning Engineer at [WAT.ai](https://watai.ca/) [Present]
 - Software Developer Intern at [Geotab](https://www.geotab.com/) [Summer 2026]
 - Software Developer Intern at [Geotab](https://www.geotab.com/) [Fall 2025]
 - Software Developer Intern at [Octopodi Technologies](https://www.octopodi.com/) [Winter 2025]
 
+
+
+<!-- 
 ## About Me:
-My interests: ML Infra, LLM Inference, GPU Programming, Distributed Training Systems. <br>📫 How to reach me: z253chen@uwaterloo.ca<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can recall the first 100 digits of π!
+<br>📫 How to reach me: z253chen@uwaterloo.ca<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can recall the first 100 digits of π!
 
-
-<!-- ## Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zhenghong_chen_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zhenghong-chen-974102245) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:z253chen@uwaterloo.ca)
 
 ## Tech Stack:
